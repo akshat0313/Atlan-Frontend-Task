@@ -46,7 +46,7 @@ Try out the website : [Atlan Frontend Task](https://akshat0313.github.io/Atlan-F
 Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
 we can check code spnappyness using GTmetrix Grade.
 
-### [web.dev Report](https://pagespeed.web.dev/)(https://pagespeed.web.dev/analysis/https-akshat0313-github-io-Atlan-Frontend-Task/l2nnec46wd?form_factor=mobile)
+### [web.dev Report](https://pagespeed.web.dev/analysis/https-akshat0313-github-io-Atlan-Frontend-Task/l2nnec46wd?form_factor=mobile)
 
 Laptop performance view
 
