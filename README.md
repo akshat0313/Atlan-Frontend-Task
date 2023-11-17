@@ -12,7 +12,7 @@ This is a Atlan Frontend Task(a SQL query editor project) built using ReactJs an
 <img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
-Try out the website : [Atlan Frontend Task](https://akshat0313.github.io/Atlan-Frontend-Task/)
+Working Demo : [Atlan Frontend Task](https://akshat0313.github.io/Atlan-Frontend-Task/)
 
 ## 👨‍🔧 Tech Stack
 
