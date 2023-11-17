@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Atlan-Frontend-Task/static/css/main.fb857246.css",
+    "main.css": "/Atlan-Frontend-Task/static/css/main.3dbbac81.css",
     "main.js": "/Atlan-Frontend-Task/static/js/main.980d6f02.js",
     "static/js/787.3b08ad96.chunk.js": "/Atlan-Frontend-Task/static/js/787.3b08ad96.chunk.js",
     "index.html": "/Atlan-Frontend-Task/index.html",
-    "main.fb857246.css.map": "/Atlan-Frontend-Task/static/css/main.fb857246.css.map",
+    "main.3dbbac81.css.map": "/Atlan-Frontend-Task/static/css/main.3dbbac81.css.map",
     "main.980d6f02.js.map": "/Atlan-Frontend-Task/static/js/main.980d6f02.js.map",
     "787.3b08ad96.chunk.js.map": "/Atlan-Frontend-Task/static/js/787.3b08ad96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb857246.css",
+    "static/css/main.3dbbac81.css",
     "static/js/main.980d6f02.js"
   ]
 }
