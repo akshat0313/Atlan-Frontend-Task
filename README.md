@@ -84,7 +84,7 @@ Deployment is done using Github Pages
 
 More info [deployment](https://github.com/gitname/react-gh-pages)
 
-# Note: Brownie points achieved by rendering a table with over 800 rows.
+## Note: Brownie points achieved by rendering a table with over 800 rows.
 
 ## 🚀 Project Output
 
